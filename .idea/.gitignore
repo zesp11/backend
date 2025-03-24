@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/application.properties
+/src/main/resources/application.properties
+goadventure/src/main/resources/application.properties
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
